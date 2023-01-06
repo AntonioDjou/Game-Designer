@@ -4,7 +4,7 @@
 + Design material for <b>Project Vortex</b>:
 <br>https://github.com/AntonioDjou/Vortex-Design</br>
 
-+ AR Game to pilot drone:
++ AR Game Design:
 <br>https://github.com/AntonioDjou/AR-Game</br>
 
 + `1-Page GDD:`
